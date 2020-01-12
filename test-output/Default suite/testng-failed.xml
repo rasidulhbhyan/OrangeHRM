@@ -5,7 +5,7 @@
     <classes>
       <class name="Testing.TestRunner">
         <methods>
-          <include name="goJobTitlePage"/>
+          <include name="goToHRMTest"/>
         </methods>
       </class> <!-- Testing.TestRunner -->
     </classes>

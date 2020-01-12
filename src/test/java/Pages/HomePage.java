@@ -8,6 +8,9 @@ String userNameBox= "xpath://input[@id='txtUsername']";
 String passwordBox= "xpath://input[@id='txtPassword']";
 String logInButton= "xpath://input[@id='btnLogin']";
 
+
+//Testing Git/GitHub
+
 public HomePage (WebDriver driver) {
 	
 	super(driver);

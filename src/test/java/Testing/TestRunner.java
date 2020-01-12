@@ -10,7 +10,7 @@ public class TestRunner extends TestBase {
 
 
 
-
+@Test
 public void goToHRMTest() {
 	
 	
@@ -41,7 +41,7 @@ public void goToUserPage() {
 	
 }
 
-@Test
+
 public void goJobTitlePage() {
 	
 	startBrowser("chrome");
